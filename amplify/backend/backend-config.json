@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "userandroidapp1f2a3e91": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
